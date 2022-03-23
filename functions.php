@@ -151,4 +151,49 @@ $fbpost = [
 
 ];
 
+$productIndex = [
+    [
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
+        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
+        'productPrice'     =>      '৳ 343'
+    ],
+    [
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
+        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
+        'productPrice'     =>      '৳ 343'
+    ],
+    [
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
+        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
+        'productPrice'     =>      '৳ 343'
+    ],
+    [
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
+        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
+        'productPrice'     =>      '৳ 343'
+    ],
+    [
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
+        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
+        'productPrice'     =>      '৳ 343'
+    ],
+    [
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
+        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
+        'productPrice'     =>      '৳ 343'
+    ],
+    [
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
+        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
+        'productPrice'     =>      '৳ 343'
+    ],
+    [
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
+        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
+        'productPrice'     =>      '৳ 343'
+    ]
+   
+
+];
+
 ?>
