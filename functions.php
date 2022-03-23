@@ -154,41 +154,41 @@ $fbpost = [
 $productIndex = [
     [
         'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
-        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
+        'productName'      =>      'D115 PLUS Bluetooth Android and IOS - Black', 
         'productPrice'     =>      '৳ 343'
     ],
     [
-        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
-        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
-        'productPrice'     =>      '৳ 343'
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/222ed03a14d8f6a317038f257e671676.jpg',
+        'productName'      =>      'Led Decoration dhool light', 
+        'productPrice'     =>      '৳ 150'
     ],
     [
-        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
-        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
-        'productPrice'     =>      '৳ 343'
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/e25c5fe8917420e3d104a73db2feb06e.jpg',
+        'productName'      =>      '3.5mm Super bass In-ear earpiece earphones', 
+        'productPrice'     =>      '৳ 452'
     ],
     [
-        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
-        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
-        'productPrice'     =>      '৳ 343'
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/0cf67fa160fe17590ab754634fbd03c3.jpg',
+        'productName'      =>      'Pack of 3 Pieces Premium Cotton Boxer', 
+        'productPrice'     =>      '৳ 219'
     ],
     [
-        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
-        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
-        'productPrice'     =>      '৳ 343'
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/7236440f5a753458861ebfedeed75f3d.jpg',
+        'productName'      =>      '5 Pieces Nose Strip Blackheads Remover', 
+        'productPrice'     =>      '৳ 85'
     ],
     [
-        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
-        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
-        'productPrice'     =>      '৳ 343'
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/a483f5e51e4b89206b595434fc9dc125.jpg_400x400q75.jpg_.webp',
+        'productName'      =>      'Various color travel bags for boys and girls', 
+        'productPrice'     =>      '৳ 142'
     ],
     [
-        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
-        'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
-        'productPrice'     =>      '৳ 343'
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/8fb1b8fe80444807ac8fd28dda49b142.jpg_400x400q75.jpg_.webp',
+        'productName'      =>      'Multi Function Universal Wall Switch Socket', 
+        'productPrice'     =>      '৳ 147'
     ],
     [
-        'productImage'     =>      'https://static-01.daraz.com.bd/p/cfc881d42ea7bebe8d270450d534bcbb.jpg',
+        'productImage'     =>      'https://static-01.daraz.com.bd/p/ca413760b6946891df2e824727828451.jpg_400x400q75.jpg_.webp',
         'productName'      =>      'D115 PLUS Bluetooth Bracelet Smart Watch for Android and IOS - Black', 
         'productPrice'     =>      '৳ 343'
     ]
